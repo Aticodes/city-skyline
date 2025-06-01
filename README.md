@@ -1,5 +1,5 @@
 # 🌆 City Skyline – CSS Art Project
-![City Skyline Preview](city-skyline/Capture5.PNG)
+![City Skyline Preview](city skyline/Capture5.PNG)
 
 This project is a **pure HTML and CSS** artwork that visually renders a colorful **city skyline** using layered buildings, gradients, and responsive design techniques. The scene includes a bright sky, background buildings, and detailed foreground skyscrapers — all built without a single image or JavaScript.
 
